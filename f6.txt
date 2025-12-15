@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-Good Afternoon
-=======
 Lerning git
->>>>>>> parent of dec22ba (Revert "created f6.txt again2")
+
